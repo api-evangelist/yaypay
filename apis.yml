@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://yaypay.com', status: 308, note: 'declared website redirects to https://www.quadient.com/en-us/ar-automation — a different registrable domain (yaypay.com -> quadient.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/yaypay.png
 name: YayPay
 description: YayPay is a company surfaced as a portfolio company of 500-global, techstars and added to
